@@ -28,7 +28,8 @@ Nos han encargado hacer un análisis sobre los datos generales de los creadores 
 
 *Análisis individual 2023 directos **NO** de la Kings League*
 
-![imagen](https://github.com/Jaimercmail/ETL-Visualizacion/assets/138033149/e8283dd7-6ad8-4c1c-92d8-dd5ae6bb7bd9)
+![imagen](https://github.com/Jaimercmail/ETL-Visualizacion/assets/138033149/937f991d-a1e5-40df-8ba8-ce0956ebc55a)
+
 
 
 
